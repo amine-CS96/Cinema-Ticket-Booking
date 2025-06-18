@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "include/cinema.h"
+#include "../include/cinema.h"
 
 
 int main()
