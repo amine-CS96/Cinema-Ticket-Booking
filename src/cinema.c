@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "include/cinema.h"
+#include "../include/cinema.h"
 
 int nb=0 ;
 int c =0;
